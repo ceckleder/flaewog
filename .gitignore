@@ -1,4 +1,7 @@
-.idea
+_site
+.sass-cache
+.jekyll-metadata
 *.iml
-raw/*
 .DS_Store
+raw/*
+.idea
