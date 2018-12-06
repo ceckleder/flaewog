@@ -12,10 +12,7 @@ header {
     box-shadow: 3px 3px 16px 0px rgba(0,0,0,0.2);
 }
 
-
-
 .content {
-    background-image: url("/img/background.jpg");
     background-repeat: no-repeat;
     background-color: #150B07;
     background-size: 100%;
