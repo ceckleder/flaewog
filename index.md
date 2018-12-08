@@ -9,7 +9,7 @@ layout: default
 Mit unseren derzeit 3 auf unserem Hof lebenden Alpakastuten haben wir 2017 unseren Traum wahr gemacht.
 Mit ihren großen Kulleraugen und ihrer ruhigen Wesenart verzaubern sie die Menschen schon bei ihrem ersten Anblick.
 
-Alpakas sind eine aus den Anden stammende Kamalart, die vorwiegend wegen ihrer Wolle gezüchtet
+Alpakas sind eine aus den Anden stammende Kamelart, die vorwiegend wegen ihrer Wolle gezüchtet
 werden. Dies ist auch der Grund dafür, warum in Deutschland die Alpakas als landwirtschaftliche Nutztiere anerkannt sind.
 
 Die Wolle der Alpakas wird auch als das Gold der Inkas oder Vlies der Götter bezeichnet.
