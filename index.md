@@ -4,7 +4,7 @@ layout: default
 
 # Herzlich Willkommen bei den Fläwog Alpakas
 
-## Träumen auf der Märchenweide...
+## Träumen auf der Märchenweide  ...
 
 Mit unseren derzeit 3 auf unserem Hof lebenden Alpakastuten haben wir 2017 unseren Traum wahr gemacht.
 Mit ihren großen Kulleraugen und ihrer ruhigen Wesenart verzaubern sie die Menschen schon bei ihrem ersten Anblick.
