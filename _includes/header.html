@@ -1,11 +1,15 @@
 <header>
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <a href="/" aria-label="Link zur Startseite">
-          <img class="img img-logo " src="/img/logo.png" alt=" ">
-        </a>
-      </div>
-    </div>
+  <div class="header-logo">
+    <a href="/" aria-label="Link zur Startseite">
+      <img class="img img-logo " src="/img/logo.png" alt=" " />
+    </a>
   </div>
+
+  <ul class="header-navigation">
+    {% for item in site.data.navigation.docs %}
+    <li class="{% if item.url == page.url %}active{% endif %}">
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
 </header>

@@ -1,0 +1,12 @@
+# Seiten in der Navigation:
+
+docs_list_title: ACME Documentation
+docs:
+  - title: Unsere Alpakas
+    url: /
+
+  - title: Alpaka Wolle
+    url: /wolle.html
+
+  - title: Impressum
+    url: /impressum.html

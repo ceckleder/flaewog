@@ -26,22 +26,19 @@ plugins:
   - jekyll-sitemap
 
 defaults:
-  -
-    scope:
-      path:            "raw/*"
+  - scope:
+      path: "raw/*"
     values:
-      sitemap:         false
-  -
-    scope:
-      path:            "googlee4fea911c9e178fc.html"
+      sitemap: false
+  - scope:
+      path: "googlee4fea911c9e178fc.html"
     values:
-      sitemap:         false
+      sitemap: false
 
 # Build settings
 sass:
   sass_dir: _sass
 markdown: kramdown
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
