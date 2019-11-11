@@ -8,11 +8,11 @@ group: "navigation"
 
 Angaben gemäß § 5 TMG
 
-Enrico und Claudia Heinisch<br/>
+Enrico und Claudia Henisch<br/>
 Niemegker Straße 9 <br/>
 06889 Lutherstadt Wittenberg
 
-Telefon: :03482065899<br/>
+Telefon: 0349206589<br/>
 E-Mail: flaewogalpakas@yahoo.com<br/>
 
 ## Haftungsausschluss:
