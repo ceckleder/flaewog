@@ -154,7 +154,7 @@ aside {
   width: 100%;
   min-height: auto;
   @include background-cover;
-  background-position: center;
+  background-position: top;
   background-image: url("../img/background.jpg");
   text-align: center;
   color: white;
@@ -164,6 +164,10 @@ aside {
     padding: 100px 15px 100px;
     width: 100%;
     .header-content-inner {
+      background-color: rgba(0, 0, 0, 0.5);
+      border-radius: 30px;
+      margin-top: 200px;
+      padding: 10px 10px 20px 10px;
       h1 {
         font-weight: 700;
         text-transform: uppercase;
@@ -177,7 +181,9 @@ aside {
         font-weight: 300;
         color: rgba(white, 0.7);
         font-size: 16px;
-        margin-bottom: 50px;
+      }
+      .header-content-brand-logo {
+        width: 80%;
       }
     }
   }
@@ -285,6 +291,7 @@ aside {
   display: block;
   max-width: 650px;
   margin: 0 auto;
+
   .portfolio-box-caption {
     color: white;
     opacity: 0;
