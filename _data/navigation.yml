@@ -1,4 +1,4 @@
-# Seiten in der Navigation:
+# Statische Seiten in der Navigation:
 
 docs_list_title: ACME Documentation
 docs:
@@ -10,3 +10,4 @@ docs:
 
   - title: Impressum
     url: /impressum.html
+
