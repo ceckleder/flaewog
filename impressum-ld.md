@@ -1,7 +1,10 @@
 ---
-layout: imprint
+layout: default
 title: Impressum
+group: "navigation"
 ---
+
+# Impressum
 
 Angaben gemäß § 5 TMG
 
